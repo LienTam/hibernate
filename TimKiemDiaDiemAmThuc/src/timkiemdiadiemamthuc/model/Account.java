@@ -103,9 +103,11 @@ public abstract class Account {
 	public String getAddress() {
 		return address;
 	}
+	
+	
 
 	public void setAddress(String address) {
 		this.address = address;
 	}
-
+// liên tam 95
 }
