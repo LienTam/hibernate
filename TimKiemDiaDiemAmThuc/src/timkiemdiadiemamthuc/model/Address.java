@@ -30,12 +30,5 @@ public class Address {
 		this.address = address;
 	}
 
-//	public Set<Post> getListPost() {
-//		return listPost;
-//	}
-//
-//	public void setListPost(Set<Post> listPost) {
-//		this.listPost = listPost;
-//	}
 
 }
